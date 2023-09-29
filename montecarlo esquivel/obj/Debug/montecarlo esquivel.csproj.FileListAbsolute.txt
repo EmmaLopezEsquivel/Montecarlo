@@ -1,0 +1,7 @@
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\bin\Debug\montecarlo esquivel.exe.config
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\bin\Debug\montecarlo esquivel.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\bin\Debug\montecarlo esquivel.pdb
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\obj\Debug\montecarlo esquivel.csproj.AssemblyReference.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\obj\Debug\montecarlo esquivel.csproj.CoreCompileInputs.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\obj\Debug\montecarlo esquivel.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\montecarlo esquivel\obj\Debug\montecarlo esquivel.pdb
